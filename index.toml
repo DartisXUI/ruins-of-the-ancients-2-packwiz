@@ -665,7 +665,7 @@ metafile = true
 
 [[files]]
 file = "mods/moving-elevators.pw.toml"
-hash = "b9dc6d13bde06537239e3b181a37fd8e39e789da55f7b069af7a57dd4fb72ef4"
+hash = "d7abc93a81586fdf7c173125d933b2e9132b32bd7cdec3c693b44fe9e9539852"
 metafile = true
 
 [[files]]
