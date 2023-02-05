@@ -1,0 +1,8 @@
+name = "Moving Elevators"
+filename = "movingelevators-1.2.34-mc1.12.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0316412156986fde135dc426f46017739f5002db"
+mode = "metadata:curseforge"
