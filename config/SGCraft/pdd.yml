@@ -1,0 +1,7 @@
+addresses:
+    ABCD-EFG-HI:
+        name: Descriptive Name Here
+        locked: false
+    ZF99-OPG-7F:
+        name: Welcome Centre at Spawn
+        locked: true

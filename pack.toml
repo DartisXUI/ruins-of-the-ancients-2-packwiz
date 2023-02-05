@@ -1,0 +1,13 @@
+name = "Dartis-Craft - Ruins of the Ancients 2 Packwiz"
+author = "Dartis Xui"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1246bbec55d090f99f0d64e1c91061efe58d716fd1b7e0b23f2825f7b17210e8"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"

@@ -1,0 +1,257 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/GeneticsReborn/GeneticsReborn.cfg"
+hash = "117c17d58eab171ea4162719489232b445b4a89e5eb428a38677a3fee4b4f570"
+
+[[files]]
+file = "config/IC2.ini"
+hash = "8e17bfb255616c4c65288c127ceaab63a0ebf33cd76e4898f5be4faf6fb9b018"
+
+[[files]]
+file = "config/SGCraft/pdd.yml"
+hash = "52a824e0bc8d5d4141e88043b6e10abffb9c211f5c444e5069c80c8f246fa86a"
+
+[[files]]
+file = "config/TinkerToolLeveling.cfg"
+hash = "c8ce4b860358129fb90fa179bfd48c861c8afdc616b363a7d5fd2b88598a2704"
+
+[[files]]
+file = "config/Waystones.cfg"
+hash = "ad5c04f5276ca3e6e589d08901f4f7d2c91d4b9cf5299b2fc93290eb978fe6e1"
+
+[[files]]
+file = "config/cofh/world/01_thermalfoundation_ores.json"
+hash = "a7f5a5b4a01102b839089e40fb2dbad4709dd208b64f4d7de9495afa226328e0"
+
+[[files]]
+file = "config/cofh/world/galacticores-109-above-cofh-world.json"
+hash = "31733f8c5823b4296075b290f43ee18e8da657dd92e203d2acd5236922530dc3"
+
+[[files]]
+file = "config/enderio/recipes/user/user_recipes.xml"
+hash = "b1a1e2919e06530615ee214dab0298bdd085715e5462f7ac2a8915c410de0e05"
+
+[[files]]
+file = "config/enderstorage.cfg"
+hash = "0e768f6d9d9275564e12c41e0364cc3f0b98b6d2a1715af31509c1d577860853"
+
+[[files]]
+file = "config/extrautils2.cfg"
+hash = "e9bcc0c3f59f024d811d9fb7e78d95b4e5a2c1853e898d19611e8d22d6bd482c"
+
+[[files]]
+file = "config/ftbutilities.cfg"
+hash = "5a55f400ea4866602fe6ae4c185ce6d48cb42c17f4be1c3c7f722a99127ea994"
+
+[[files]]
+file = "config/huntingdim/huntingdim.cfg"
+hash = "90fefa72f012e5c41b4f3fa1320cdbb0e0bd780c00702ceff7d5dd67c8840c1a"
+
+[[files]]
+file = "config/ic2/shaped_recipes.ini"
+hash = "caebe3a5cebd5cf9278f89dd35c8e31a767c5f17fe32463e0ed3b0159ab79a5a"
+
+[[files]]
+file = "config/mekanism.cfg"
+hash = "7ca35433ca67d1cc659ff99615629beb7eecea151db2fd4ff538322e4b3f1a20"
+
+[[files]]
+file = "config/natura.cfg"
+hash = "0284a131fd9b28555ae0e2c90ba91c336a501199a864705f641f9c64276e9d13"
+
+[[files]]
+file = "config/openblocks.cfg"
+hash = "ec570ef98ece0584a695199483462612d3b6723cfe01c29074134994fa5520b4"
+
+[[files]]
+file = "config/orecore.cfg"
+hash = "f5f7be24306d4aa813826ba52161a009389dfdcc7d8366f84828ab5b5c54c5d9"
+
+[[files]]
+file = "config/quark.cfg"
+hash = "61d6bf1f9a97cc246f2ffacee6c7474a42007d310acb3b4b33b80f01ef9f15f0"
+
+[[files]]
+file = "config/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "config/ruins_config/beaches/dartiscraft-lighthouse-configurator.tml"
+hash = "0d8fc4dd659bd57f4fe05b08e9c1cf1a6a8045dacff4313ef205c285f4f54b65"
+
+[[files]]
+file = "config/ruins_config/beaches/ftbj-lighthouse-configurator.tml"
+hash = "0d8fc4dd659bd57f4fe05b08e9c1cf1a6a8045dacff4313ef205c285f4f54b65"
+
+[[files]]
+file = "config/ruins_config/birch_forest/dartiscraft-ancient-repository-cavern-forests-final.tml"
+hash = "0fd2a5ac8d23aa67b34ac430fa6bab6dd2b027e1058ac68980e5fd34864f13ff"
+
+[[files]]
+file = "config/ruins_config/birch_forest_hills/dartiscraft-lighthouse-configurator.tml"
+hash = "0d8fc4dd659bd57f4fe05b08e9c1cf1a6a8045dacff4313ef205c285f4f54b65"
+
+[[files]]
+file = "config/ruins_config/birch_forest_hills/ftbj-lighthouse-configurator.tml"
+hash = "0d8fc4dd659bd57f4fe05b08e9c1cf1a6a8045dacff4313ef205c285f4f54b65"
+
+[[files]]
+file = "config/ruins_config/desert/TowerAtlantis.tml"
+hash = "1a3df2cfd0702c48ff5b3d711b4bc0ec5086948494cf7b622c60b7b9a0a8e672"
+
+[[files]]
+file = "config/ruins_config/desert/dartiscraft-ancient-repository-cavern-desert-final.tml"
+hash = "6e583e2dd334e29ac9dd456cf3a07f8e3658b40c2845091172f98407f1d2d702"
+
+[[files]]
+file = "config/ruins_config/desert/dartiscraft-tombtrap-ae2.tml"
+hash = "5b146f346eee8ea441e2e79ee21fee8f55a0b58045104d226e8a74ce37c8387b"
+
+[[files]]
+file = "config/ruins_config/desert/ftbj-tombtrap-ae2.tml"
+hash = "5b146f346eee8ea441e2e79ee21fee8f55a0b58045104d226e8a74ce37c8387b"
+
+[[files]]
+file = "config/ruins_config/extreme_hills/dartiscraft-stargate-sgcramp-final.tml"
+hash = "ef8f6c645007678b576953ce9521ee4857de543be0efae376d230a4e11de3774"
+
+[[files]]
+file = "config/ruins_config/forest/dartiscraft-ancient-repository-cavern-forests-final.tml"
+hash = "0fd2a5ac8d23aa67b34ac430fa6bab6dd2b027e1058ac68980e5fd34864f13ff"
+
+[[files]]
+file = "config/ruins_config/forest_hills/dartiscraft-lighthouse-configurator.tml"
+hash = "0d8fc4dd659bd57f4fe05b08e9c1cf1a6a8045dacff4313ef205c285f4f54b65"
+
+[[files]]
+file = "config/ruins_config/forest_hills/ftbj-lighthouse-configurator.tml"
+hash = "0d8fc4dd659bd57f4fe05b08e9c1cf1a6a8045dacff4313ef205c285f4f54b65"
+
+[[files]]
+file = "config/ruins_config/generic/EmeraldOreOutcrop.tml"
+hash = "c8873dc3637aada8c444d31712d0e5e1ba7662b0c7875d41a035d3eb87ad1240"
+
+[[files]]
+file = "config/ruins_config/generic/OreSpire.tml"
+hash = "8a52fb3a1be478320d57eb1041106fe0e5d1d1e57c050dba6ce163a55e417e6d"
+
+[[files]]
+file = "config/ruins_config/generic/dartiscraft-ancient-outpost-final3.tml"
+hash = "56e623637ba2af8806437fd38a2e9d8abbf833aef27a38bcae5a2b1f7f5d88a0"
+
+[[files]]
+file = "config/ruins_config/generic/dartiscraft-ancient-repository-mk3f.tml"
+hash = "e69586807c75b7b39d4a861261ff5a050e545cebd7394bdd4d5cb777f5a533d8"
+
+[[files]]
+file = "config/ruins_config/generic/dartiscraft-ancient-repository-mk3l.tml"
+hash = "e03b6a34a147fd8ecfe9785a60ac28dec74aabdd112dbd0a844070665a8da94b"
+
+[[files]]
+file = "config/ruins_config/generic/dartiscraft-ancient-repository-mk3r.tml"
+hash = "605a71140c8d3489d2cd2ff78c6bcc3f73d6278bf62a2f3ca06701c39af17edc"
+
+[[files]]
+file = "config/ruins_config/generic/dartiscraft-seedship-final2.tml"
+hash = "16deee1df475a95af36442cf86e9525eaba69505d0e8d57af55766d5219435b2"
+
+[[files]]
+file = "config/ruins_config/generic/dartiscraft-stargate-typesakyo-final.tml"
+hash = "ce65d8b2d2811dba7ceda09c1a40c82b6712a686112b7d0b3b0713b496432da1"
+
+[[files]]
+file = "config/ruins_config/hell/dartiscraft-ancient-repository-cavern-nether-final.tml"
+hash = "94727ad7acb991b9e2a7021237c9a4bb65ebce09399e4b6a20c97ba9a1f585ca"
+
+[[files]]
+file = "config/ruins_config/hell/taonasg.tml"
+hash = "71ccf834e0bc45b60a50b3de9ce81bb7511159ac995fb75bfe71cafb45dff480"
+
+[[files]]
+file = "config/ruins_config/mesa/JG_WarTower1Base_Seed_CB_1v12.tml"
+hash = "04cfe0befa52d8f7bcd6db189fa293d875b045b53d43cba98b5ddd2016fe68cc"
+
+[[files]]
+file = "config/ruins_config/ocean/SunkenShip-v2.tml"
+hash = "98ee3adfb980f1a8b719382a5243224fb9371a5fc45e6e196f299f4b25e5d880"
+
+[[files]]
+file = "config/ruins_config/ocean/SunkenShip-v3.tml"
+hash = "10309c40807ab6108a31225db9c43f5307e5f22d8eda76d6b156f88455aa48e7"
+
+[[files]]
+file = "config/ruins_config/ocean/TowerAtlantis.tml"
+hash = "1a3df2cfd0702c48ff5b3d711b4bc0ec5086948494cf7b622c60b7b9a0a8e672"
+
+[[files]]
+file = "config/ruins_config/ocean/shipwreck.tml"
+hash = "95b498916de8c91b9211c8539dbd53b4484f70c38a485b01bef9a5ea5ace05d8"
+
+[[files]]
+file = "config/ruins_config/plains/CastleModified.tml"
+hash = "dbb2e22c1e3a889813322b9e6738895b30623630b36f365469cbfebab3955e1d"
+
+[[files]]
+file = "config/ruins_config/plains/TowerAtlantis.tml"
+hash = "1a3df2cfd0702c48ff5b3d711b4bc0ec5086948494cf7b622c60b7b9a0a8e672"
+
+[[files]]
+file = "config/ruins_config/plains/dartiscraft-ancient-repository-cavern-final.tml"
+hash = "cad00ee651e3fe5f3274e0b943752522d64e6cf9c7748997a1365acda571df57"
+
+[[files]]
+file = "config/ruins_config/river/dartiscraft-goldrush.tml"
+hash = "a7666fbcf70b2c4611ea1b32f5393d6953d35e6c90cd6151f40ffa604e430d47"
+
+[[files]]
+file = "config/ruins_config/roofed_forest/JG_WarTower1Base_Seed_CB_1v12.tml"
+hash = "04cfe0befa52d8f7bcd6db189fa293d875b045b53d43cba98b5ddd2016fe68cc"
+
+[[files]]
+file = "config/ruins_config/templateparser/TP_WarTower1A.tml"
+hash = "e5b0f95f5ce28b8f40cf8724be97f5d4eaddab14512fb342e5ce73c83d4c0b99"
+
+[[files]]
+file = "config/ruins_config/templateparser/TP_WarTower1B.tml"
+hash = "9093bbe715846bbf3f4a3de016f4d51fddc4369cb3f10bf70975878d980c8e8e"
+
+[[files]]
+file = "config/ruins_config/templateparser/TP_WarTower1C.tml"
+hash = "cb097103b3ab36203eb15065d3459927d716a6f048eee719e7b8628cd2575092"
+
+[[files]]
+file = "config/ruins_config/templateparser/TP_WarTower1D.tml"
+hash = "0344152eaf7e6b26853eddf2fa681b47abc8eaa74d04e6fd782e1e7c1354fb5f"
+
+[[files]]
+file = "config/ruins_config/templateparser/TP_WarTower1Top.tml"
+hash = "c1f60e018463bca289c9ee6a719ed7c12bc322710bc52c02d79ff5ccc941115f"
+
+[[files]]
+file = "config/schematica.cfg"
+hash = "328cad56289b234369af50f22efe4a529f018ad40a64141adb5aeecd42a3124d"
+
+[[files]]
+file = "config/sgcraft.cfg"
+hash = "e6c08afcfd38a22a039ef1d1ee3aed3a26c63f3ec022a616266ac153f6b44dba"
+
+[[files]]
+file = "config/simplerpg.cfg"
+hash = "9aa8f5bd88dd2fccbf1c9e6fe4afbe99296d28ff09af9e1561dceec1791beb23"
+
+[[files]]
+file = "config/tconstruct.cfg"
+hash = "6d57d986daefd5e3517a356e4a710bc08a813194db39955286e57db0e4f185e9"
+
+[[files]]
+file = "config/woot/woot.cfg"
+hash = "4710c95cc6c521c3239cca291c2258c04f1cce1ec6b13e1eaf54746b865fe198"
+
+[[files]]
+file = "options.txt"
+hash = "56a8f43671d97e2554327eec3c17bc6a6b9c1d8434b7ea7414514bf6dc9fb37a"
+
+[[files]]
+file = "scripts/recipes.zs"
+hash = "9cc972df90e112827d80d6f983ce8974167330a4e385a42e2c58dc91f612eec5"
