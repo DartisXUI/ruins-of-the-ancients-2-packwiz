@@ -1,0 +1,13 @@
+name = "Universal Remote"
+filename = "UniversalRemote-1.12-0.9.10.jar"
+side = "both"
+
+[download]
+hash-format = "murmur2"
+hash = "3460524748"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2513998
+project-id = 273414
