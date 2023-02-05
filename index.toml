@@ -664,11 +664,6 @@ hash = "99d1fe22e1ddc58a0a43f64a18a4e06298ef76c9f7608f57a7f0cee0d64fecaa"
 metafile = true
 
 [[files]]
-file = "mods/moving-elevators.pw.toml"
-hash = "db79c3ac7f4963420ebc0c87ee174553c88c2566194ad88753704c13e5b756f3"
-metafile = true
-
-[[files]]
 file = "mods/mrtjpcore.pw.toml"
 hash = "ae849763d546d4fea042e339ec74f8b0373472f76aeda340cd6bced6ac7754bd"
 metafile = true
