@@ -879,6 +879,16 @@ hash = "2b1cc04677251c1a835b65cea63d35733d05a6833a03eda3a323c0f00f1531a7"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "c21ca439bb89db0236b5f45a59e80d6ace1da3de7d917700992068a2bccf0cbb"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "aa21db153cf6687cffc74f654dfed84666d2151565a1ac4daa29af3abc80284b"
+metafile = true
+
+[[files]]
 file = "mods/tesla-core-lib.pw.toml"
 hash = "a59ce34f44040f07fdd4cd7df09113ef13790166abe529ab5556322da7bd6363"
 metafile = true
