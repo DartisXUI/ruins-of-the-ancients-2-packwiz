@@ -649,6 +649,11 @@ hash = "2e8b0bf399dd4e7eda06c2f228e2c49e9fb8b94bfd283c3a0385fb064293e91b"
 metafile = true
 
 [[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "ae9b5814a439a9c6ce570119e57e7a12e354951f701d98dfa3cb18045cdefcd4"
+metafile = true
+
+[[files]]
 file = "mods/moar-tinkers.pw.toml"
 hash = "280125566b1c5a3d64fe29ecbbdded6da48231e546143c4e568f6260051c6627"
 metafile = true
