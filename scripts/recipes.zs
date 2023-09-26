@@ -3,6 +3,8 @@
 //#Remove
 //Don't touch me!
 //#Add
+recipes.addShapeless(<prefab:block_compressed_dirt> * 2, [<extrautils2:compresseddirt>,<extrautils2:compresseddirt>]);
+recipes.addShapeless(<extrautils2:compresseddirt> * 2, [<prefab:block_compressed_dirt>,<prefab:block_compressed_dirt>]);
 recipes.addShapeless(<minecraft:iron_ore>, [<minecraft:stone>,<ore:dustIron>,<ore:dustIron>,<ore:dustIron>]);
 furnace.setFuel(<sgcraft:naquadah>, 16000);
 recipes.addShapeless(<appliedenergistics2:material>, [<orecore:quartz>]);
