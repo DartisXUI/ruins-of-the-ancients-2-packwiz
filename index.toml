@@ -42,7 +42,7 @@ hash = "e9bcc0c3f59f024d811d9fb7e78d95b4e5a2c1853e898d19611e8d22d6bd482c"
 
 [[files]]
 file = "config/ftbutilities.cfg"
-hash = "5a55f400ea4866602fe6ae4c185ce6d48cb42c17f4be1c3c7f722a99127ea994"
+hash = "7cb1de8d6fbc4ea1955d059676e39b07545f1e119846c4bfe8beb5c9f0b1bd32"
 
 [[files]]
 file = "config/huntingdim/huntingdim.cfg"
