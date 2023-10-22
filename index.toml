@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg"
-hash = "017c38eb875d66a767f9a12bef54e6f5ebf6670d1c7dfb32e1d9dcf3307dd30c"
+hash = "36e0a98c224cc1261ac0289920a8ecd6f54ff3ea99e8bcf699e4bde31d3846c8"
 
 [[files]]
 file = "config/GeneticsReborn/GeneticsReborn.cfg"
