@@ -564,6 +564,11 @@ hash = "e105e97942ca227dd0925c73d3a26d30e74820d01e9ea5c458c91409436d515f"
 metafile = true
 
 [[files]]
+file = "mods/handles.pw.toml"
+hash = "3ba6421817270dc4b2369fc1a8354d566f3a37ed6229d50010b836172d0621c7"
+metafile = true
+
+[[files]]
 file = "mods/hunting-dimension.pw.toml"
 hash = "daccec4c429a0d28654fd62731620f0252d551e4175f824d6a100c1e1c61f534"
 metafile = true
@@ -731,6 +736,11 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "5ce43c4f9f7b58f48e7d6c469d6ade03870abd6776abac2e98c8b9e2fbc45ef2"
+metafile = true
+
+[[files]]
+file = "mods/new-tardis-mod.pw.toml"
+hash = "e08823d1cf016afd5c34887773842cd6c775609fe099b1273c165eda7e363a8c"
 metafile = true
 
 [[files]]
