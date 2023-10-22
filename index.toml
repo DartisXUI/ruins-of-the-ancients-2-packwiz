@@ -1,6 +1,1158 @@
 hash-format = "sha256"
 
 [[files]]
+file = "Ruins of the Ancients/advRocketry/DIM-2/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM-2/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM-2/data/villagesplanet.dat"
+hash = "1997d8f5381d38371656ada2ee37770dc0fa4b1ab7e05a9c3daa263aac7bfbe7"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM-2/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM-2/multipart.dat"
+hash = "2d2dbc14664b8bca1006d23d838dee07ffa49ca590cfd07205b6ec92ed564956"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM-2/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM10/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM10/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM10/data/reccomplex-structuredata.dat"
+hash = "eaaaf14ba28696fb65cf40a77f5e54efb3eea434dccfa54cad7dafb5f37c466e"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM10/data/villagesplanet.dat"
+hash = "9aabcaba16f55a5c779b50f720b6d25593f8b8a3e682eebe4746d708e529a979"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM10/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM10/multipart.dat"
+hash = "19fdf9a8f9a581a0489acca42f4eb1483843e2c4e380f46a09c1b35ab3331cf6"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM10/region/r.-1.-1.mca"
+hash = "79b2c9245941b268b19f24e41c07231eda20cd3e058d714f2a8dcfdc1c1193c0"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM10/region/r.-1.0.mca"
+hash = "05c44bd7596c9952ae6fbe91fade9bfdaf72cc380a7e54fd0ed99a56ad6c943c"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM10/region/r.0.-1.mca"
+hash = "9fd3b93cc2249e998047f8f18b5aa56f51202da82f5b564aed87e755a0d4ef56"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM10/region/r.0.0.mca"
+hash = "42d48f9769d9870d28953c51cc1e327dffe159ced4ec3482c01138175da6e31c"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM10/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM11/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM11/data/SlimeIslands.dat"
+hash = "d71de1e5418241b5f17519d65d63d8635c46e604082b2fb66af9989cca999231"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM11/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM11/data/reccomplex-structuredata.dat"
+hash = "537b340b85d9bd9919d9db34f648c6c7045a3312df3fe00fc2bf70a1d2ab1d9f"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM11/data/villagesplanet.dat"
+hash = "aecb498eda62ba740498cef430a00c498b55b34bb76cd05b66ec07bf1666a87a"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM11/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM11/multipart.dat"
+hash = "01004ebb43514af8d3714cd80862af755548e744a11e284593cca4ca2ef477c4"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM11/region/r.-1.-1.mca"
+hash = "8db57865d19bc077e7e2bdde7c54750d3e5d6f87f3e67598d4ca2871cb3459bd"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM11/region/r.-1.0.mca"
+hash = "5b4362f51ae837df2f757beab07920d6746a53751c0680fe7755b0bc783970ab"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM11/region/r.0.-1.mca"
+hash = "a0b0e8297e3e456eaa435609ac7c9d7051940593c0b8433c7f1d167e07e5872e"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM11/region/r.0.0.mca"
+hash = "b11cf4cccdc56cee3765f3ef5242c3c2e1a8d5fe2e6a65b68ba89eca57e6ffb6"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM11/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM12/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM12/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM12/data/reccomplex-structuredata.dat"
+hash = "d3ac3bc595ec809eb2e6b6a1ef572c86a35958f086c7e9f7bbc9a54db05f25ac"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM12/data/villagesplanet.dat"
+hash = "bd4d1ac73e40149f6e5ccb1ca58234db128fd408a9f44c9d9ae2480ec24b2781"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM12/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM12/multipart.dat"
+hash = "c9dd95828b8e41bb04cfa8bea13aa841f23bd39dec63bf14d6d994aae9c28087"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM12/region/r.-1.-1.mca"
+hash = "73c6c0c3432c731a27d97ca9734fd45ec7e9bcd2e2cfb90cf758ae19687f5576"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM12/region/r.-1.0.mca"
+hash = "b5153b96dbee1a48da6bd8be3172e46a479162b14d6fc8d7ee0db8e2f4bb4931"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM12/region/r.0.-1.mca"
+hash = "67ed6f7c317fba422243de685c94b9e6eb50c20476704436d9b459428c670670"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM12/region/r.0.0.mca"
+hash = "4317199dd73b35eef9636f949cba7558e195656b9b01f7741c8a59b5b6ed75d7"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM12/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM13/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM13/data/Mineshaft.dat"
+hash = "6d21aebd45b69793aacb58f3b0f2dde92993513a08c504fd97ca1cb4ca8a37b6"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM13/data/Village.dat"
+hash = "9d59c63a7e018db05e177297e4d5520599e657834e82c553798937eff0154fee"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM13/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM13/data/reccomplex-structuredata.dat"
+hash = "a0a982b3b7f235cfbca9437310651da9bb87404af607616af13a9b0804d1aa76"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM13/data/villagesplanet.dat"
+hash = "551caea8c8d4daaf8aaeaaee30abb9bfca845f5c0a9fb01a06d50e9ea6c08eee"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM13/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM13/multipart.dat"
+hash = "14fbeac386e58f7eb3d24da0b8b613d7b78c7985f126299cee609166897aca1a"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM13/region/r.-1.-1.mca"
+hash = "3232a6e05dc8738ed0bc3e16e1ab41dd82a68132a04044d7369c8e01d3de6d55"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM13/region/r.-1.0.mca"
+hash = "b6401416dce5f5d169399e337b4f9863368a72e7f6dcce1bf65c382295e907e5"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM13/region/r.0.-1.mca"
+hash = "c5337c8365616db8804831872fa05970781b2796cbf02a6986bbc31b5a0cb641"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM13/region/r.0.0.mca"
+hash = "9476d72f2a09fa22de18c2ff8b8118fb85ba59c5e581922a823c839a67cb7ed4"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM13/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM14/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM14/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM14/data/reccomplex-structuredata.dat"
+hash = "b8f1ec5313d073f9641f74933cc49c2f2547a0772bc8bc367e78e87203a243ff"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM14/data/villagesplanet.dat"
+hash = "6003708030c2d9c5ff3447e3288d20243b3782014f807c2f301ddd50fc318fbd"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM14/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM14/multipart.dat"
+hash = "2052e1e6d1516db1e037b72941a92995288a10a35ed1a9a00e26540e1bb80344"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM14/region/r.-1.-1.mca"
+hash = "a31060dc18a8548fa95f445fa000ece68e69b78278d8e822fc908850b2d0ad05"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM14/region/r.-1.0.mca"
+hash = "448bba56f2efd470f61c6eb2523804060a303e7c4bcbca655f79d28199158ff4"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM14/region/r.0.-1.mca"
+hash = "3d553d397603e2c7421f6d6ca8e8408b4c51763da98a47f24992a572b1d6ce3d"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM14/region/r.0.0.mca"
+hash = "fb2f403cc5c6971d9db9bfd32e58e89ddfb9e82a3d3fb71023e3180cb7c86670"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM14/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM15/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM15/data/Village.dat"
+hash = "c691cf04ed50a9a73ec88ed82f8bb60cac250909e95af35701a3638e1c5c0e27"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM15/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM15/data/reccomplex-structuredata.dat"
+hash = "65a15c7fc6f64a4e1bb4860aa0e5fa9b1f8bb8057a79dd81afef3330a66c4341"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM15/data/villagesplanet.dat"
+hash = "3e9974a16c3949d8cc24553a80b71f8720e3e38298ad9101c81068a412169224"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM15/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM15/multipart.dat"
+hash = "080b612bb02b0ffd048bc538b81ba3c39995308dea9052c02c6a77623163e86b"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM15/region/r.-1.-1.mca"
+hash = "4c1d119760a68909960d767da95b9fe666705c566809ad47b46a836dc8843dec"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM15/region/r.-1.0.mca"
+hash = "6999f97412f0ea3087372888779c1135121a0c789d2e5cf8ef6ddefc82cc721b"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM15/region/r.0.-1.mca"
+hash = "e7b849c55b7666c55b824a30abcadccf5c2330c53e3365de2aa21c5cc1664fdd"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM15/region/r.0.0.mca"
+hash = "f56fee022a87dd36304516466fbf43c32973b36bf485116fe9d5c3d62675369a"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM15/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM16/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM16/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM16/data/reccomplex-structuredata.dat"
+hash = "d5f2d9c5284be506c0328cd8c6a4a3bfe4d609241a8344b7b79bab75c8c2e935"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM16/data/villagesplanet.dat"
+hash = "32de989f80b683365646b90ca67c96cb76540a1f76919473bce1e59d9a4cf805"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM16/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM16/multipart.dat"
+hash = "84382303f0b57861da30dd9600b6b3671f995136614886e7013c1c8cca2394cc"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM16/region/r.-1.-1.mca"
+hash = "baa8c0a09d7bc2cfa726947d6457ec009a42a09c140dae83ba9cd5222095b8fe"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM16/region/r.-1.0.mca"
+hash = "1c77b4c0bfcb75e544addac81e176ff7467f05855b56cc0c9016d3c37e2224fd"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM16/region/r.0.-1.mca"
+hash = "d3257d0cd9696c13c48dd4facd2fff68bca8b8c358a020018f55f40f9f4979c6"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM16/region/r.0.0.mca"
+hash = "7acaa5c17aef7562da279c1cb9b1390ffe8e520f0540fa3bf6d76b7c4dca2bf6"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM16/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM17/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM17/data/Village.dat"
+hash = "95858398ee0d03a5db204d6439085a96cbc12d415e65ba0b2410842997112a27"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM17/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM17/data/reccomplex-structuredata.dat"
+hash = "eaaf7ee3feec40e8ce1e582ebda821a0ee89de37d35098d824634e8a694fc27e"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM17/data/villagesplanet.dat"
+hash = "e09dfb611d6a05d18069b59bdd4ce56d6087576e40336b0f0e4a283429ec1ce6"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM17/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM17/multipart.dat"
+hash = "9762c141366aafe08b44cb63c2a449311e3c622f0663d9835f3bb6babe4e2249"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM17/region/r.-1.-1.mca"
+hash = "fe287273d3672823985ed2d8f0f7b19cb76f77ef6908ff7c3ab45848da62b3b8"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM17/region/r.-1.0.mca"
+hash = "116328aeca7c693a20d2362c634780eabac026d68579e7fe1b57d771dadb94e9"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM17/region/r.0.-1.mca"
+hash = "38c207cc78695bde4ba6fa2afe6e8b1647f47554f6ba2d17507f84d6d8e9c924"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM17/region/r.0.0.mca"
+hash = "cd3e2bfe632b6ff488ca29dff2601ecfa896e6f5b146e2b48ee1d31118310835"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM17/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM18/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM18/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM18/data/reccomplex-structuredata.dat"
+hash = "77826ca3b1a39a989b6573849a898a3068cc6e0dfa1d2fbcb2a22d5147b0d71f"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM18/data/villagesplanet.dat"
+hash = "bb12ac67656750c673ca33248751abee3850903de2fd126ce129d8f9cb6ce061"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM18/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM18/multipart.dat"
+hash = "3bfd7c069ec2f83588da049e06d6fea4aacde6d112df406f352b2c0fc5ce3669"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM18/region/r.-1.-1.mca"
+hash = "dd0df41858c4fcaf2f8c633de947d31372c349fd8233f2c21740083a647f3c2a"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM18/region/r.-1.0.mca"
+hash = "01eb88c11d902a1bcec34e6c7d26ddf00cd6abdf90889c0d310e5e028818a54c"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM18/region/r.0.-1.mca"
+hash = "3300ac0c0517996c87546e6e1aeb443323703955aa10c3e5c71172df84776ac1"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM18/region/r.0.0.mca"
+hash = "6ded9355d0654d059a06eceea0b447b597bac398079cb3b8905e4414de2df236"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM18/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM19/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM19/data/Village.dat"
+hash = "5159ec626bb8cc4e164c363c59c6e3fb177b597e0068eac76cefc26a276e5509"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM19/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM19/data/reccomplex-structuredata.dat"
+hash = "2a9c225360a41490f3b81c51fbcdf3b388d1619222b1394a07e34998076eb958"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM19/data/villagesplanet.dat"
+hash = "7c91bbe0d27dea0c4ef30d3acad726b54253eb7e54ddb71d487ea18600b2e348"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM19/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM19/multipart.dat"
+hash = "26b7c0e06d2af3c5c70a02810e40e678d5cfb4d2982e7865bc3ab427eca97f2b"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM19/region/r.-1.-1.mca"
+hash = "5e65d6a95b0fbf5c1ec8e166852a1b6ab103f4616113b3d65f743825d7d6c603"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM19/region/r.-1.0.mca"
+hash = "56f283074578b2167e31223b0b61f5a4f9b1d36f97184b744e60b66f3dcb39c0"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM19/region/r.0.-1.mca"
+hash = "9fa6c375f5cbb51eda0143d5eb7c00845989754c1b5f4c1cbeaed5f863c954f0"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM19/region/r.0.0.mca"
+hash = "1fa0d8a63ef5abf9e4c76c0d86880b107adf32fa2057df16bb2403156e0eb185"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM19/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM20/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM20/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM20/data/reccomplex-structuredata.dat"
+hash = "29f3328d012d360740a6b77cb41b2339ac0c618085506d83099dbfa897571b02"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM20/data/villagesplanet.dat"
+hash = "ae2651fb9bc267ae5169cf5ba58c23e8cb91e450b404a196e98e67dfb8748f47"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM20/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM20/multipart.dat"
+hash = "c6df8ded70addfd72a9a8c0df2126b96b4830b2940cfb499f5fbe676efad9aa4"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM20/region/r.-1.-1.mca"
+hash = "e590d50f0972f63e63f762e9e00b3f79d8f0877c0e83f067f8734923f44a059a"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM20/region/r.-1.0.mca"
+hash = "fa3482d37b23f4c1ebfe4d15d041a01b0ebe1150bff1ee31f4de8f570b8c59be"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM20/region/r.0.-1.mca"
+hash = "0b65d6801a20e3f1b05b816ee88282b9f84e13697399c0dd2c82075378d34aa7"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM20/region/r.0.0.mca"
+hash = "d38901254bcb35f5eab25e6b06c650a81f8d37879d44c4bbc23834e0db286d85"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM20/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM21/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM21/data/Mineshaft.dat"
+hash = "b323bc0a5c032bfb9b7ece2f9de0b05eb608478c24494cabac82a3b5fd05f52d"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM21/data/Village.dat"
+hash = "e276819247ec3d00ada7c74126e7bd0c9bfe4ba8f6b4a11f3504349d1becf508"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM21/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM21/data/reccomplex-structuredata.dat"
+hash = "0d8bc8cf83521b9b8fb3634a9ff05a4b3bbb940fb8598a1abdca112c9d18009a"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM21/data/villagesplanet.dat"
+hash = "95b3426c2682787c18e26be787a2102ef069e0266cefe96e70ed5e2c11524ec0"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM21/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM21/multipart.dat"
+hash = "ae5e6488b577cbc8a71ce06aa7ae7d4d99bfbdb6f324e169a98d0a055e4d49e5"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM21/region/r.-1.-1.mca"
+hash = "95217d8fa5f28305bc14f861a2bd927835f98cf14b5517d17c9292a63cf0ecc1"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM21/region/r.-1.0.mca"
+hash = "b043407aaf66bb2c1cf22b50de9c0818a4ae9879a593a1101f2886f7c12763b9"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM21/region/r.0.-1.mca"
+hash = "026cbbcdd4a451b13168766bd7cd116f2134986096468ea33f5d6feaa2019ef7"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM21/region/r.0.0.mca"
+hash = "a6b2e4620a9a752331685ad400b1cf8cfa27770d259bd892545f20f7abcd00f8"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM21/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM22/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM22/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM22/data/reccomplex-structuredata.dat"
+hash = "e3c4419d7366b992a3c57ead3be3691e7ee0baaba73b0ffead2001d22984d308"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM22/data/villagesplanet.dat"
+hash = "0caeb0c458c9ff824fa438269b6d9ea04968c8beae6c7a33d536df0098083b57"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM22/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM22/multipart.dat"
+hash = "aabe555659213f44573fa623e9b1707d6336c758ee5c5e0744b5fe52acd6a6bb"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM22/region/r.-1.-1.mca"
+hash = "af92903470cd417a988d3dcc22f467d99ed0f6c732e31f5c348445d484011775"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM22/region/r.-1.0.mca"
+hash = "436d879cd1f09cffe9a4e197d6b60a99e52aae4033a86cb361186da4c499d021"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM22/region/r.0.-1.mca"
+hash = "44c0736d658745e646db092b8b659efd95ca439514f1ed135058b0ac70e2cf13"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM22/region/r.0.0.mca"
+hash = "c0722dc3cbcd47860f74dd002f0ff5cfacf067f9659944c6722dc1529b6611b5"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM22/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM3/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM3/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM3/data/reccomplex-structuredata.dat"
+hash = "31beb38b63e72f295307c41f4bb08c2857455bc0ae0327d7b61d96c24aa50afa"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM3/data/villagesplanet.dat"
+hash = "597c3644af2a94f8fc51f3813e19c914621f85fc5c04dd894d191baa48ad91c1"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM3/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM3/multipart.dat"
+hash = "d2923636e4bbeb90d064041318bc582168fe1e9bbec84ee8de87f49bd65d2cfa"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM3/region/r.-1.-1.mca"
+hash = "4604d2103d93c95656411a4e7d9d76a1e6cb4f07bd9c7fff8b09fcbe6c7f235c"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM3/region/r.-1.0.mca"
+hash = "bb15244218db0c585607c018070dd4db0eaf9752d0f992f152e85f811fed52db"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM3/region/r.0.-1.mca"
+hash = "06df835cf95eff814e5da763069be2852f0b440e848aeb4e74f85efb05a5d890"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM3/region/r.0.0.mca"
+hash = "68e931e19cc20ce19866cc529e4f4c1c98e4c58ed4fe6f0d85a84b7cf26496e8"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM3/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM32/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM32/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM32/data/reccomplex-structuredata.dat"
+hash = "547f33b9f0e8653a32a052b6acc5aaef7a538465e6e45788d66f45337048c109"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM32/data/villagesplanet.dat"
+hash = "6987bd322e37da2c02fabe22b68ea5f62bbf2783f7e95ccbd69f26a6a6cb2fe6"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM32/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM32/multipart.dat"
+hash = "132d84d369cb6a799afa578b55693a43ebcf045cd9c405da1cb44619c77b1133"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM32/region/r.-1.-1.mca"
+hash = "cbfd7410af56f1f5fef7cb6a8daaf7c5099ce5b28811556fc536252fc778c6e7"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM32/region/r.-1.0.mca"
+hash = "7c7d01432caec35faf95d03cd140b3aa528d97f65bc2f45a2e4332c9ae03535b"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM32/region/r.0.-1.mca"
+hash = "06fff63fe9ef507c9260e031acc616515f0663e2d810c44e5cfc80195f1bc992"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM32/region/r.0.0.mca"
+hash = "175ee58cd9820382ddca7578e2b5e4763938c77100a34b27ab507e661c0b27c0"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM32/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM33/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM33/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM33/data/reccomplex-structuredata.dat"
+hash = "3c764ca06ed128c2b54c6845cb67defdec4f9dd077a23375e66de63912a66f06"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM33/data/villagesplanet.dat"
+hash = "5222979a992fb5e6d157d5dc692cf6b10848c346f06710d23e21b248f977f75f"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM33/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM33/multipart.dat"
+hash = "03cce25e621c153f4d80fb0dd8411fd921f8e6d7f9f6cd961f6c7d32e064c30c"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM33/region/r.-1.-1.mca"
+hash = "6af0ec98c1a340dcb08913f15d9b7d40354626a9026644eed1e91fc269dbc230"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM33/region/r.-1.0.mca"
+hash = "4e2faf1f681ee27fdb8570dd0251ec8c412216d2bfbe6876b4b9987e3409f2ec"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM33/region/r.0.-1.mca"
+hash = "9cce26f5935ccb8245e7bb7981a0c4b4b5ced094286686572dada819aab9b351"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM33/region/r.0.0.mca"
+hash = "cf60201702f7b73bee00b56b5ef8fed592f840ae0339eddb849cb229ba067014"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM33/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM34/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM34/data/Village.dat"
+hash = "8d0377e04cb54f61b6ad547ca48113759809b3d697c55a9604cef9a92a69686b"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM34/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM34/data/reccomplex-structuredata.dat"
+hash = "35c88843fcab0d70b961ad8e8ef983152fa37bf16b26aca9a866031fc18fec69"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM34/data/villagesplanet.dat"
+hash = "72d7b36134805822c377aaab6461a0e51008c8814481877be564d5b744dde506"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM34/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM34/multipart.dat"
+hash = "3866bb62edda15c292b3e297b0e208397fce197c7b5d9557fcca2492f0d34f1d"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM34/region/r.-1.-1.mca"
+hash = "b14f56f2723e0c6841adb3b5ae8a97e5305b0aa7aee1b6d9f27dd265584fae19"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM34/region/r.-1.0.mca"
+hash = "8bcb8b21d7e0d57b7d977fa59414ba262ff1b426957eb04719ce71c2b1692a33"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM34/region/r.0.-1.mca"
+hash = "a9e92d2f011951e757ace1c57ddfd22924ca62c97411fed87b30a56f6ac4d16c"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM34/region/r.0.0.mca"
+hash = "10b6bb0a8bdbfbb2eb501946f76ab31d7b9f85cf4f66422f4569fb7faccce349"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM34/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM35/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM35/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM35/data/reccomplex-structuredata.dat"
+hash = "1eb6a895898efe3d91ba6a03b252839b82c5c5360c5359d730b7a2e5ed9782d0"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM35/data/villagesplanet.dat"
+hash = "b61fb2366b0f1a23b7622240694c7e3064ca8dd2cd281ea8c40fe6fe627c2610"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM35/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM35/multipart.dat"
+hash = "3866bb62edda15c292b3e297b0e208397fce197c7b5d9557fcca2492f0d34f1d"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM35/region/r.-1.-1.mca"
+hash = "fe283e90645ad2f7f75d857460448bee9628ca38229bc4d222d8046eb21fa4ac"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM35/region/r.-1.0.mca"
+hash = "cb84b7880caff3dd8db3252ac1732283a2fa30dc2cdc63c1bba0a63ff7e150d1"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM35/region/r.0.-1.mca"
+hash = "5fa28bac2a472855451768c14d53fb0512939968fa2c30cb9e01095ab39d3b86"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM35/region/r.0.0.mca"
+hash = "70dbfb76667c4cda3eef62f83e5545232eff95c0d1e547c7210e61c5262a9964"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM35/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM5/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM5/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM5/data/reccomplex-structuredata.dat"
+hash = "a3ee05b7244a5797d3bc9bbc0e97c1eaef32af5f8a86de6eaea6d3c1c355dd86"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM5/data/villagesplanet.dat"
+hash = "6d3132a96b97fa322d3237eb94561095fc21a5174e0a5d9f99213a3ed9fc9b99"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM5/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM5/multipart.dat"
+hash = "034576ddbe06d9668432a83b25a8d18a0cc551198843e9b27c544112aa86ea27"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM5/region/r.-1.-1.mca"
+hash = "945bf997cd6fa4c65140cb2e8d3c8ec20bd22b1e11b210e28ad9d38e8b8bdc11"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM5/region/r.-1.0.mca"
+hash = "f7aea6f8c6e8b63d99eecb6e1d3e1d3f52006d85d0428fee1e388024a8c55d00"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM5/region/r.0.-1.mca"
+hash = "bd0ff1afa2bca2ef903bfef47d649f04a0694364da0e48e9172bbc2c1f957599"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM5/region/r.0.0.mca"
+hash = "3e754b2b29dbfc165adcff931b51941b99bfedb039b841f0254f9fefc4b84a4b"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM5/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM6/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM6/data/Mineshaft.dat"
+hash = "b0595e187e46a156765a07cca16341732f11639edebdf3147f7e3cbd1cc2500d"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM6/data/Monument.dat"
+hash = "225fcc1c3dda5bda34e323ce417ad7b89b42cf60db3d77ede3f994179bdeac22"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM6/data/SlimeIslands.dat"
+hash = "5966b10f7376cbceecd43610854f31c0229c05c9627bcc387c529da3a7de72ab"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM6/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM6/data/reccomplex-structuredata.dat"
+hash = "a7d1f91fe1b660defa7bc482be4b2a11413023b58c606341650a199d866d9fdd"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM6/data/villagesplanet.dat"
+hash = "95692c62bad054cf7ccd0dd26779ba142cd32c37175ed10be3cc634abfb0be4c"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM6/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM6/multipart.dat"
+hash = "7a28ce1aafd52a830e1089d9e66e62f86561f503bb4abc8043fabc8533a31a3d"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM6/region/r.-1.-1.mca"
+hash = "b263d72e96f17fd95bb9a71920d9087cfa9c62853dedca02bd6d34a5e676811f"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM6/region/r.-1.0.mca"
+hash = "cd6cac0a0bdd551a4274dc348011f9f2f6f2897651951548e5f0121a77cdc659"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM6/region/r.0.-1.mca"
+hash = "548b6c537141135bb5fc98da0c66653d761b380e10a1bac4156d56de69f0b9a5"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM6/region/r.0.0.mca"
+hash = "e2dba7f9cdb1b8993f008dbba8a74905206dcdf3ee77ae44a2922be31a2a7941"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM6/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM7/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM7/data/Village.dat"
+hash = "b2871827b368e6a31129e44322e7a59b1a3ccce9879099d3dd312ddb0b21740c"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM7/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM7/data/reccomplex-structuredata.dat"
+hash = "c318f3ee95b0f52b8f7c08e6fd6d632abd32e8bb4a5d9aed33ce7f8c07077a1d"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM7/data/villagesplanet.dat"
+hash = "2c8d6d88b31d23d32ec72f67bf9b8656c180408d7ad19cf9dfad9eab7622922a"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM7/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM7/multipart.dat"
+hash = "336a8f57d9231a347c781ee630472b9d22dec90bd3c70da8b9b0945f4af9925f"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM7/region/r.-1.-1.mca"
+hash = "af83c8ab95a87ce0e39da44f1ca0b66187b658b6241a5ff8b54e46298d95ff1a"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM7/region/r.-1.0.mca"
+hash = "243faeb46fb44a558a0dbe4cb475ca1f983d6fba07f5ac9ec430f5e7a6e46013"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM7/region/r.0.-1.mca"
+hash = "3a60b69a12ae00dbc7c4a53c565de15f9c2cbf04adc943fd39d2de681c9a1e19"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM7/region/r.0.0.mca"
+hash = "2f3d13690d3ec96197a27739710d0d04734e39bcda827ea3bc630d34ed32144a"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM7/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM79/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM79/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM79/data/reccomplex-structuredata.dat"
+hash = "fe962474fe36e85970a18d92ef8552cff3e352e070db8a3e36554fab2e1ef8c1"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM79/data/villagesplanet.dat"
+hash = "8a3f7d6fae494a98ce255e46baed7387ecc870cc9a1f23fe1ce901c1714255bf"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM79/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM79/multipart.dat"
+hash = "d4ad3d144708149c2fd47080acabfc96823bfd5523eabca7c1d37c3c9a1d9be6"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM79/region/r.-1.-1.mca"
+hash = "3f2dd3f1ae0fbb1a26b9b7f2970ae9f40fa58ef977e11df081051036b2e5200f"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM79/region/r.-1.0.mca"
+hash = "889303a76ad2cd6df082e421c286a780bc1c13f552b66ad443a50318b5422842"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM79/region/r.0.-1.mca"
+hash = "c9c4b6481604705d163cdc32228ace0b438e5390040e0644feebbc0e1c24f5bd"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM79/region/r.0.0.mca"
+hash = "5dcf1dc0ca43c3fe1e1d5b38c1e511723471752527beb27d65afcd6f24c5337d"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM79/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM8/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM8/data/Village.dat"
+hash = "7a5dc484d3c4b026afec66104d313e28ce35566b443661e2a2644860ef42fbbd"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM8/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM8/data/reccomplex-structuredata.dat"
+hash = "46a74b7b7c5f5cacd9ad529ffa44af472ac0da4abe1b5679780860c6ac83d8ba"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM8/data/villagesplanet.dat"
+hash = "7fabfd66b9360c351a9da39b842972c45d7587b7a963682f01e557d52f9ee426"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM8/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM8/multipart.dat"
+hash = "950b3fed19b8569d40c3660fa6e4e127eb40c5f5c4fcfba6aa8f57fcc96a32f1"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM8/region/r.-1.-1.mca"
+hash = "5651e9da9b4b90562357d1aa4e0b7c8d46976a71fb72ef3c21718ff283d717ca"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM8/region/r.-1.0.mca"
+hash = "e9f11117b16f85e3f62fdd3d383b67a086247f3214c383422f0859345cf3db5f"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM8/region/r.0.-1.mca"
+hash = "22797244877f86e69883b47747b676b7724cd5ea51e24a8fbaf33899b479deac"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM8/region/r.0.0.mca"
+hash = "522dd636757c4f78ddd1ac735272bee4b4c278409b58547e984649a6dc2f6a14"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM8/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM9/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM9/data/SlimeIslands.dat"
+hash = "1427f0f646ccb5be5c1987ce3e17efa23b58051bd2430f098ab4cbd45ca0d105"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM9/data/Village.dat"
+hash = "bac496ede00095b9126d4e1412c11587dbe6eacf1d42550814dbc1da68639d9c"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM9/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM9/data/reccomplex-structuredata.dat"
+hash = "86dfda1f2e4574a4b7d31add2b75b76f70962dc8c1fbd2fb9e6d79f90db4c5d5"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM9/data/villagesplanet.dat"
+hash = "3fb7dc0d70a38d13eaab45acbbcedf7ac8ed472e96d9d5b6800e10fd4ed0ebb2"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM9/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM9/multipart.dat"
+hash = "4a344baf30b7f8b5ad47c1487465550eebd248fac552d34377419fe3928adc4d"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM9/region/r.-1.-1.mca"
+hash = "1a8e76159ec180875891255dfa49dd0c7934d899a64e4931241cedb8c3b60c77"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM9/region/r.-1.0.mca"
+hash = "2124711dc12af148cafb31bd0505f063fed8775e4de91d8eaeb227d30185792c"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM9/region/r.0.-1.mca"
+hash = "9d37c8cd586547e6b5cd7a0445f4e25726c9f6ee714c1d1c45dd55ba307a76bc"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM9/region/r.0.0.mca"
+hash = "7159087db3f9648db82e1f7049ca2ffffe087c31745165f3c34890a2a5ded4da"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/DIM9/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/planetDefs.xml"
+hash = "be58abd613b726764bb0c27fe7d84eba2753e8140d7d6087299bc4bfa55a54c1"
+
+[[files]]
+file = "Ruins of the Ancients/advRocketry/temp.dat"
+hash = "a29c0c3683551ad4df67752173ac0d7ca4ea5cb3fcffcb4b65d40824561fca46"
+
+[[files]]
 file = "config/GeneticsReborn/GeneticsReborn.cfg"
 hash = "117c17d58eab171ea4162719489232b445b4a89e5eb428a38677a3fee4b4f570"
 
@@ -1052,5 +2204,1161 @@ file = "options.txt"
 hash = "56a8f43671d97e2554327eec3c17bc6a6b9c1d8434b7ea7414514bf6dc9fb37a"
 
 [[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM-2/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM-2/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM-2/data/villagesplanet.dat"
+hash = "1997d8f5381d38371656ada2ee37770dc0fa4b1ab7e05a9c3daa263aac7bfbe7"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM-2/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM-2/multipart.dat"
+hash = "2d2dbc14664b8bca1006d23d838dee07ffa49ca590cfd07205b6ec92ed564956"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM-2/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM10/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM10/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM10/data/reccomplex-structuredata.dat"
+hash = "eaaaf14ba28696fb65cf40a77f5e54efb3eea434dccfa54cad7dafb5f37c466e"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM10/data/villagesplanet.dat"
+hash = "9aabcaba16f55a5c779b50f720b6d25593f8b8a3e682eebe4746d708e529a979"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM10/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM10/multipart.dat"
+hash = "19fdf9a8f9a581a0489acca42f4eb1483843e2c4e380f46a09c1b35ab3331cf6"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM10/region/r.-1.-1.mca"
+hash = "79b2c9245941b268b19f24e41c07231eda20cd3e058d714f2a8dcfdc1c1193c0"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM10/region/r.-1.0.mca"
+hash = "05c44bd7596c9952ae6fbe91fade9bfdaf72cc380a7e54fd0ed99a56ad6c943c"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM10/region/r.0.-1.mca"
+hash = "9fd3b93cc2249e998047f8f18b5aa56f51202da82f5b564aed87e755a0d4ef56"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM10/region/r.0.0.mca"
+hash = "42d48f9769d9870d28953c51cc1e327dffe159ced4ec3482c01138175da6e31c"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM10/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM11/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM11/data/SlimeIslands.dat"
+hash = "d71de1e5418241b5f17519d65d63d8635c46e604082b2fb66af9989cca999231"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM11/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM11/data/reccomplex-structuredata.dat"
+hash = "537b340b85d9bd9919d9db34f648c6c7045a3312df3fe00fc2bf70a1d2ab1d9f"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM11/data/villagesplanet.dat"
+hash = "aecb498eda62ba740498cef430a00c498b55b34bb76cd05b66ec07bf1666a87a"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM11/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM11/multipart.dat"
+hash = "01004ebb43514af8d3714cd80862af755548e744a11e284593cca4ca2ef477c4"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM11/region/r.-1.-1.mca"
+hash = "8db57865d19bc077e7e2bdde7c54750d3e5d6f87f3e67598d4ca2871cb3459bd"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM11/region/r.-1.0.mca"
+hash = "5b4362f51ae837df2f757beab07920d6746a53751c0680fe7755b0bc783970ab"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM11/region/r.0.-1.mca"
+hash = "a0b0e8297e3e456eaa435609ac7c9d7051940593c0b8433c7f1d167e07e5872e"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM11/region/r.0.0.mca"
+hash = "b11cf4cccdc56cee3765f3ef5242c3c2e1a8d5fe2e6a65b68ba89eca57e6ffb6"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM11/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM12/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM12/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM12/data/reccomplex-structuredata.dat"
+hash = "d3ac3bc595ec809eb2e6b6a1ef572c86a35958f086c7e9f7bbc9a54db05f25ac"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM12/data/villagesplanet.dat"
+hash = "bd4d1ac73e40149f6e5ccb1ca58234db128fd408a9f44c9d9ae2480ec24b2781"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM12/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM12/multipart.dat"
+hash = "c9dd95828b8e41bb04cfa8bea13aa841f23bd39dec63bf14d6d994aae9c28087"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM12/region/r.-1.-1.mca"
+hash = "73c6c0c3432c731a27d97ca9734fd45ec7e9bcd2e2cfb90cf758ae19687f5576"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM12/region/r.-1.0.mca"
+hash = "b5153b96dbee1a48da6bd8be3172e46a479162b14d6fc8d7ee0db8e2f4bb4931"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM12/region/r.0.-1.mca"
+hash = "67ed6f7c317fba422243de685c94b9e6eb50c20476704436d9b459428c670670"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM12/region/r.0.0.mca"
+hash = "4317199dd73b35eef9636f949cba7558e195656b9b01f7741c8a59b5b6ed75d7"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM12/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM13/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM13/data/Mineshaft.dat"
+hash = "6d21aebd45b69793aacb58f3b0f2dde92993513a08c504fd97ca1cb4ca8a37b6"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM13/data/Village.dat"
+hash = "9d59c63a7e018db05e177297e4d5520599e657834e82c553798937eff0154fee"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM13/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM13/data/reccomplex-structuredata.dat"
+hash = "a0a982b3b7f235cfbca9437310651da9bb87404af607616af13a9b0804d1aa76"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM13/data/villagesplanet.dat"
+hash = "551caea8c8d4daaf8aaeaaee30abb9bfca845f5c0a9fb01a06d50e9ea6c08eee"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM13/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM13/multipart.dat"
+hash = "14fbeac386e58f7eb3d24da0b8b613d7b78c7985f126299cee609166897aca1a"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM13/region/r.-1.-1.mca"
+hash = "3232a6e05dc8738ed0bc3e16e1ab41dd82a68132a04044d7369c8e01d3de6d55"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM13/region/r.-1.0.mca"
+hash = "b6401416dce5f5d169399e337b4f9863368a72e7f6dcce1bf65c382295e907e5"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM13/region/r.0.-1.mca"
+hash = "c5337c8365616db8804831872fa05970781b2796cbf02a6986bbc31b5a0cb641"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM13/region/r.0.0.mca"
+hash = "9476d72f2a09fa22de18c2ff8b8118fb85ba59c5e581922a823c839a67cb7ed4"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM13/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM14/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM14/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM14/data/reccomplex-structuredata.dat"
+hash = "b8f1ec5313d073f9641f74933cc49c2f2547a0772bc8bc367e78e87203a243ff"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM14/data/villagesplanet.dat"
+hash = "6003708030c2d9c5ff3447e3288d20243b3782014f807c2f301ddd50fc318fbd"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM14/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM14/multipart.dat"
+hash = "2052e1e6d1516db1e037b72941a92995288a10a35ed1a9a00e26540e1bb80344"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM14/region/r.-1.-1.mca"
+hash = "a31060dc18a8548fa95f445fa000ece68e69b78278d8e822fc908850b2d0ad05"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM14/region/r.-1.0.mca"
+hash = "448bba56f2efd470f61c6eb2523804060a303e7c4bcbca655f79d28199158ff4"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM14/region/r.0.-1.mca"
+hash = "3d553d397603e2c7421f6d6ca8e8408b4c51763da98a47f24992a572b1d6ce3d"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM14/region/r.0.0.mca"
+hash = "fb2f403cc5c6971d9db9bfd32e58e89ddfb9e82a3d3fb71023e3180cb7c86670"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM14/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM15/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM15/data/Village.dat"
+hash = "c691cf04ed50a9a73ec88ed82f8bb60cac250909e95af35701a3638e1c5c0e27"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM15/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM15/data/reccomplex-structuredata.dat"
+hash = "65a15c7fc6f64a4e1bb4860aa0e5fa9b1f8bb8057a79dd81afef3330a66c4341"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM15/data/villagesplanet.dat"
+hash = "3e9974a16c3949d8cc24553a80b71f8720e3e38298ad9101c81068a412169224"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM15/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM15/multipart.dat"
+hash = "080b612bb02b0ffd048bc538b81ba3c39995308dea9052c02c6a77623163e86b"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM15/region/r.-1.-1.mca"
+hash = "4c1d119760a68909960d767da95b9fe666705c566809ad47b46a836dc8843dec"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM15/region/r.-1.0.mca"
+hash = "6999f97412f0ea3087372888779c1135121a0c789d2e5cf8ef6ddefc82cc721b"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM15/region/r.0.-1.mca"
+hash = "e7b849c55b7666c55b824a30abcadccf5c2330c53e3365de2aa21c5cc1664fdd"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM15/region/r.0.0.mca"
+hash = "f56fee022a87dd36304516466fbf43c32973b36bf485116fe9d5c3d62675369a"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM15/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM16/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM16/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM16/data/reccomplex-structuredata.dat"
+hash = "d5f2d9c5284be506c0328cd8c6a4a3bfe4d609241a8344b7b79bab75c8c2e935"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM16/data/villagesplanet.dat"
+hash = "32de989f80b683365646b90ca67c96cb76540a1f76919473bce1e59d9a4cf805"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM16/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM16/multipart.dat"
+hash = "84382303f0b57861da30dd9600b6b3671f995136614886e7013c1c8cca2394cc"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM16/region/r.-1.-1.mca"
+hash = "baa8c0a09d7bc2cfa726947d6457ec009a42a09c140dae83ba9cd5222095b8fe"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM16/region/r.-1.0.mca"
+hash = "1c77b4c0bfcb75e544addac81e176ff7467f05855b56cc0c9016d3c37e2224fd"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM16/region/r.0.-1.mca"
+hash = "d3257d0cd9696c13c48dd4facd2fff68bca8b8c358a020018f55f40f9f4979c6"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM16/region/r.0.0.mca"
+hash = "7acaa5c17aef7562da279c1cb9b1390ffe8e520f0540fa3bf6d76b7c4dca2bf6"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM16/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM17/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM17/data/Village.dat"
+hash = "95858398ee0d03a5db204d6439085a96cbc12d415e65ba0b2410842997112a27"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM17/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM17/data/reccomplex-structuredata.dat"
+hash = "eaaf7ee3feec40e8ce1e582ebda821a0ee89de37d35098d824634e8a694fc27e"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM17/data/villagesplanet.dat"
+hash = "e09dfb611d6a05d18069b59bdd4ce56d6087576e40336b0f0e4a283429ec1ce6"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM17/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM17/multipart.dat"
+hash = "9762c141366aafe08b44cb63c2a449311e3c622f0663d9835f3bb6babe4e2249"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM17/region/r.-1.-1.mca"
+hash = "fe287273d3672823985ed2d8f0f7b19cb76f77ef6908ff7c3ab45848da62b3b8"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM17/region/r.-1.0.mca"
+hash = "116328aeca7c693a20d2362c634780eabac026d68579e7fe1b57d771dadb94e9"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM17/region/r.0.-1.mca"
+hash = "38c207cc78695bde4ba6fa2afe6e8b1647f47554f6ba2d17507f84d6d8e9c924"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM17/region/r.0.0.mca"
+hash = "cd3e2bfe632b6ff488ca29dff2601ecfa896e6f5b146e2b48ee1d31118310835"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM17/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM18/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM18/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM18/data/reccomplex-structuredata.dat"
+hash = "77826ca3b1a39a989b6573849a898a3068cc6e0dfa1d2fbcb2a22d5147b0d71f"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM18/data/villagesplanet.dat"
+hash = "bb12ac67656750c673ca33248751abee3850903de2fd126ce129d8f9cb6ce061"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM18/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM18/multipart.dat"
+hash = "3bfd7c069ec2f83588da049e06d6fea4aacde6d112df406f352b2c0fc5ce3669"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM18/region/r.-1.-1.mca"
+hash = "dd0df41858c4fcaf2f8c633de947d31372c349fd8233f2c21740083a647f3c2a"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM18/region/r.-1.0.mca"
+hash = "01eb88c11d902a1bcec34e6c7d26ddf00cd6abdf90889c0d310e5e028818a54c"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM18/region/r.0.-1.mca"
+hash = "3300ac0c0517996c87546e6e1aeb443323703955aa10c3e5c71172df84776ac1"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM18/region/r.0.0.mca"
+hash = "6ded9355d0654d059a06eceea0b447b597bac398079cb3b8905e4414de2df236"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM18/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM19/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM19/data/Village.dat"
+hash = "5159ec626bb8cc4e164c363c59c6e3fb177b597e0068eac76cefc26a276e5509"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM19/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM19/data/reccomplex-structuredata.dat"
+hash = "2a9c225360a41490f3b81c51fbcdf3b388d1619222b1394a07e34998076eb958"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM19/data/villagesplanet.dat"
+hash = "7c91bbe0d27dea0c4ef30d3acad726b54253eb7e54ddb71d487ea18600b2e348"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM19/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM19/multipart.dat"
+hash = "26b7c0e06d2af3c5c70a02810e40e678d5cfb4d2982e7865bc3ab427eca97f2b"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM19/region/r.-1.-1.mca"
+hash = "5e65d6a95b0fbf5c1ec8e166852a1b6ab103f4616113b3d65f743825d7d6c603"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM19/region/r.-1.0.mca"
+hash = "56f283074578b2167e31223b0b61f5a4f9b1d36f97184b744e60b66f3dcb39c0"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM19/region/r.0.-1.mca"
+hash = "9fa6c375f5cbb51eda0143d5eb7c00845989754c1b5f4c1cbeaed5f863c954f0"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM19/region/r.0.0.mca"
+hash = "1fa0d8a63ef5abf9e4c76c0d86880b107adf32fa2057df16bb2403156e0eb185"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM19/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM20/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM20/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM20/data/reccomplex-structuredata.dat"
+hash = "29f3328d012d360740a6b77cb41b2339ac0c618085506d83099dbfa897571b02"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM20/data/villagesplanet.dat"
+hash = "ae2651fb9bc267ae5169cf5ba58c23e8cb91e450b404a196e98e67dfb8748f47"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM20/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM20/multipart.dat"
+hash = "c6df8ded70addfd72a9a8c0df2126b96b4830b2940cfb499f5fbe676efad9aa4"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM20/region/r.-1.-1.mca"
+hash = "e590d50f0972f63e63f762e9e00b3f79d8f0877c0e83f067f8734923f44a059a"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM20/region/r.-1.0.mca"
+hash = "fa3482d37b23f4c1ebfe4d15d041a01b0ebe1150bff1ee31f4de8f570b8c59be"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM20/region/r.0.-1.mca"
+hash = "0b65d6801a20e3f1b05b816ee88282b9f84e13697399c0dd2c82075378d34aa7"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM20/region/r.0.0.mca"
+hash = "d38901254bcb35f5eab25e6b06c650a81f8d37879d44c4bbc23834e0db286d85"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM20/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM21/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM21/data/Mineshaft.dat"
+hash = "b323bc0a5c032bfb9b7ece2f9de0b05eb608478c24494cabac82a3b5fd05f52d"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM21/data/Village.dat"
+hash = "e276819247ec3d00ada7c74126e7bd0c9bfe4ba8f6b4a11f3504349d1becf508"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM21/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM21/data/reccomplex-structuredata.dat"
+hash = "0d8bc8cf83521b9b8fb3634a9ff05a4b3bbb940fb8598a1abdca112c9d18009a"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM21/data/villagesplanet.dat"
+hash = "95b3426c2682787c18e26be787a2102ef069e0266cefe96e70ed5e2c11524ec0"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM21/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM21/multipart.dat"
+hash = "ae5e6488b577cbc8a71ce06aa7ae7d4d99bfbdb6f324e169a98d0a055e4d49e5"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM21/region/r.-1.-1.mca"
+hash = "95217d8fa5f28305bc14f861a2bd927835f98cf14b5517d17c9292a63cf0ecc1"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM21/region/r.-1.0.mca"
+hash = "b043407aaf66bb2c1cf22b50de9c0818a4ae9879a593a1101f2886f7c12763b9"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM21/region/r.0.-1.mca"
+hash = "026cbbcdd4a451b13168766bd7cd116f2134986096468ea33f5d6feaa2019ef7"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM21/region/r.0.0.mca"
+hash = "a6b2e4620a9a752331685ad400b1cf8cfa27770d259bd892545f20f7abcd00f8"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM21/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM22/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM22/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM22/data/reccomplex-structuredata.dat"
+hash = "e3c4419d7366b992a3c57ead3be3691e7ee0baaba73b0ffead2001d22984d308"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM22/data/villagesplanet.dat"
+hash = "0caeb0c458c9ff824fa438269b6d9ea04968c8beae6c7a33d536df0098083b57"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM22/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM22/multipart.dat"
+hash = "aabe555659213f44573fa623e9b1707d6336c758ee5c5e0744b5fe52acd6a6bb"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM22/region/r.-1.-1.mca"
+hash = "af92903470cd417a988d3dcc22f467d99ed0f6c732e31f5c348445d484011775"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM22/region/r.-1.0.mca"
+hash = "436d879cd1f09cffe9a4e197d6b60a99e52aae4033a86cb361186da4c499d021"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM22/region/r.0.-1.mca"
+hash = "44c0736d658745e646db092b8b659efd95ca439514f1ed135058b0ac70e2cf13"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM22/region/r.0.0.mca"
+hash = "c0722dc3cbcd47860f74dd002f0ff5cfacf067f9659944c6722dc1529b6611b5"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM22/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM3/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM3/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM3/data/reccomplex-structuredata.dat"
+hash = "31beb38b63e72f295307c41f4bb08c2857455bc0ae0327d7b61d96c24aa50afa"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM3/data/villagesplanet.dat"
+hash = "597c3644af2a94f8fc51f3813e19c914621f85fc5c04dd894d191baa48ad91c1"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM3/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM3/multipart.dat"
+hash = "d2923636e4bbeb90d064041318bc582168fe1e9bbec84ee8de87f49bd65d2cfa"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM3/region/r.-1.-1.mca"
+hash = "4604d2103d93c95656411a4e7d9d76a1e6cb4f07bd9c7fff8b09fcbe6c7f235c"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM3/region/r.-1.0.mca"
+hash = "bb15244218db0c585607c018070dd4db0eaf9752d0f992f152e85f811fed52db"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM3/region/r.0.-1.mca"
+hash = "06df835cf95eff814e5da763069be2852f0b440e848aeb4e74f85efb05a5d890"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM3/region/r.0.0.mca"
+hash = "68e931e19cc20ce19866cc529e4f4c1c98e4c58ed4fe6f0d85a84b7cf26496e8"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM3/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM32/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM32/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM32/data/reccomplex-structuredata.dat"
+hash = "547f33b9f0e8653a32a052b6acc5aaef7a538465e6e45788d66f45337048c109"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM32/data/villagesplanet.dat"
+hash = "6987bd322e37da2c02fabe22b68ea5f62bbf2783f7e95ccbd69f26a6a6cb2fe6"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM32/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM32/multipart.dat"
+hash = "132d84d369cb6a799afa578b55693a43ebcf045cd9c405da1cb44619c77b1133"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM32/region/r.-1.-1.mca"
+hash = "cbfd7410af56f1f5fef7cb6a8daaf7c5099ce5b28811556fc536252fc778c6e7"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM32/region/r.-1.0.mca"
+hash = "7c7d01432caec35faf95d03cd140b3aa528d97f65bc2f45a2e4332c9ae03535b"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM32/region/r.0.-1.mca"
+hash = "06fff63fe9ef507c9260e031acc616515f0663e2d810c44e5cfc80195f1bc992"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM32/region/r.0.0.mca"
+hash = "175ee58cd9820382ddca7578e2b5e4763938c77100a34b27ab507e661c0b27c0"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM32/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM33/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM33/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM33/data/reccomplex-structuredata.dat"
+hash = "3c764ca06ed128c2b54c6845cb67defdec4f9dd077a23375e66de63912a66f06"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM33/data/villagesplanet.dat"
+hash = "5222979a992fb5e6d157d5dc692cf6b10848c346f06710d23e21b248f977f75f"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM33/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM33/multipart.dat"
+hash = "03cce25e621c153f4d80fb0dd8411fd921f8e6d7f9f6cd961f6c7d32e064c30c"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM33/region/r.-1.-1.mca"
+hash = "6af0ec98c1a340dcb08913f15d9b7d40354626a9026644eed1e91fc269dbc230"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM33/region/r.-1.0.mca"
+hash = "4e2faf1f681ee27fdb8570dd0251ec8c412216d2bfbe6876b4b9987e3409f2ec"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM33/region/r.0.-1.mca"
+hash = "9cce26f5935ccb8245e7bb7981a0c4b4b5ced094286686572dada819aab9b351"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM33/region/r.0.0.mca"
+hash = "cf60201702f7b73bee00b56b5ef8fed592f840ae0339eddb849cb229ba067014"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM33/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM34/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM34/data/Village.dat"
+hash = "8d0377e04cb54f61b6ad547ca48113759809b3d697c55a9604cef9a92a69686b"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM34/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM34/data/reccomplex-structuredata.dat"
+hash = "35c88843fcab0d70b961ad8e8ef983152fa37bf16b26aca9a866031fc18fec69"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM34/data/villagesplanet.dat"
+hash = "72d7b36134805822c377aaab6461a0e51008c8814481877be564d5b744dde506"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM34/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM34/multipart.dat"
+hash = "3866bb62edda15c292b3e297b0e208397fce197c7b5d9557fcca2492f0d34f1d"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM34/region/r.-1.-1.mca"
+hash = "b14f56f2723e0c6841adb3b5ae8a97e5305b0aa7aee1b6d9f27dd265584fae19"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM34/region/r.-1.0.mca"
+hash = "8bcb8b21d7e0d57b7d977fa59414ba262ff1b426957eb04719ce71c2b1692a33"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM34/region/r.0.-1.mca"
+hash = "a9e92d2f011951e757ace1c57ddfd22924ca62c97411fed87b30a56f6ac4d16c"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM34/region/r.0.0.mca"
+hash = "10b6bb0a8bdbfbb2eb501946f76ab31d7b9f85cf4f66422f4569fb7faccce349"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM34/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM35/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM35/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM35/data/reccomplex-structuredata.dat"
+hash = "1eb6a895898efe3d91ba6a03b252839b82c5c5360c5359d730b7a2e5ed9782d0"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM35/data/villagesplanet.dat"
+hash = "b61fb2366b0f1a23b7622240694c7e3064ca8dd2cd281ea8c40fe6fe627c2610"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM35/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM35/multipart.dat"
+hash = "3866bb62edda15c292b3e297b0e208397fce197c7b5d9557fcca2492f0d34f1d"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM35/region/r.-1.-1.mca"
+hash = "fe283e90645ad2f7f75d857460448bee9628ca38229bc4d222d8046eb21fa4ac"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM35/region/r.-1.0.mca"
+hash = "cb84b7880caff3dd8db3252ac1732283a2fa30dc2cdc63c1bba0a63ff7e150d1"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM35/region/r.0.-1.mca"
+hash = "5fa28bac2a472855451768c14d53fb0512939968fa2c30cb9e01095ab39d3b86"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM35/region/r.0.0.mca"
+hash = "70dbfb76667c4cda3eef62f83e5545232eff95c0d1e547c7210e61c5262a9964"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM35/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM5/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM5/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM5/data/reccomplex-structuredata.dat"
+hash = "a3ee05b7244a5797d3bc9bbc0e97c1eaef32af5f8a86de6eaea6d3c1c355dd86"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM5/data/villagesplanet.dat"
+hash = "6d3132a96b97fa322d3237eb94561095fc21a5174e0a5d9f99213a3ed9fc9b99"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM5/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM5/multipart.dat"
+hash = "034576ddbe06d9668432a83b25a8d18a0cc551198843e9b27c544112aa86ea27"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM5/region/r.-1.-1.mca"
+hash = "945bf997cd6fa4c65140cb2e8d3c8ec20bd22b1e11b210e28ad9d38e8b8bdc11"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM5/region/r.-1.0.mca"
+hash = "f7aea6f8c6e8b63d99eecb6e1d3e1d3f52006d85d0428fee1e388024a8c55d00"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM5/region/r.0.-1.mca"
+hash = "bd0ff1afa2bca2ef903bfef47d649f04a0694364da0e48e9172bbc2c1f957599"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM5/region/r.0.0.mca"
+hash = "3e754b2b29dbfc165adcff931b51941b99bfedb039b841f0254f9fefc4b84a4b"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM5/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM6/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM6/data/Mineshaft.dat"
+hash = "b0595e187e46a156765a07cca16341732f11639edebdf3147f7e3cbd1cc2500d"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM6/data/Monument.dat"
+hash = "225fcc1c3dda5bda34e323ce417ad7b89b42cf60db3d77ede3f994179bdeac22"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM6/data/SlimeIslands.dat"
+hash = "5966b10f7376cbceecd43610854f31c0229c05c9627bcc387c529da3a7de72ab"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM6/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM6/data/reccomplex-structuredata.dat"
+hash = "a7d1f91fe1b660defa7bc482be4b2a11413023b58c606341650a199d866d9fdd"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM6/data/villagesplanet.dat"
+hash = "95692c62bad054cf7ccd0dd26779ba142cd32c37175ed10be3cc634abfb0be4c"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM6/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM6/multipart.dat"
+hash = "7a28ce1aafd52a830e1089d9e66e62f86561f503bb4abc8043fabc8533a31a3d"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM6/region/r.-1.-1.mca"
+hash = "b263d72e96f17fd95bb9a71920d9087cfa9c62853dedca02bd6d34a5e676811f"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM6/region/r.-1.0.mca"
+hash = "cd6cac0a0bdd551a4274dc348011f9f2f6f2897651951548e5f0121a77cdc659"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM6/region/r.0.-1.mca"
+hash = "548b6c537141135bb5fc98da0c66653d761b380e10a1bac4156d56de69f0b9a5"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM6/region/r.0.0.mca"
+hash = "e2dba7f9cdb1b8993f008dbba8a74905206dcdf3ee77ae44a2922be31a2a7941"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM6/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM7/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM7/data/Village.dat"
+hash = "b2871827b368e6a31129e44322e7a59b1a3ccce9879099d3dd312ddb0b21740c"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM7/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM7/data/reccomplex-structuredata.dat"
+hash = "c318f3ee95b0f52b8f7c08e6fd6d632abd32e8bb4a5d9aed33ce7f8c07077a1d"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM7/data/villagesplanet.dat"
+hash = "2c8d6d88b31d23d32ec72f67bf9b8656c180408d7ad19cf9dfad9eab7622922a"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM7/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM7/multipart.dat"
+hash = "336a8f57d9231a347c781ee630472b9d22dec90bd3c70da8b9b0945f4af9925f"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM7/region/r.-1.-1.mca"
+hash = "af83c8ab95a87ce0e39da44f1ca0b66187b658b6241a5ff8b54e46298d95ff1a"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM7/region/r.-1.0.mca"
+hash = "243faeb46fb44a558a0dbe4cb475ca1f983d6fba07f5ac9ec430f5e7a6e46013"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM7/region/r.0.-1.mca"
+hash = "3a60b69a12ae00dbc7c4a53c565de15f9c2cbf04adc943fd39d2de681c9a1e19"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM7/region/r.0.0.mca"
+hash = "2f3d13690d3ec96197a27739710d0d04734e39bcda827ea3bc630d34ed32144a"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM7/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM79/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM79/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM79/data/reccomplex-structuredata.dat"
+hash = "fe962474fe36e85970a18d92ef8552cff3e352e070db8a3e36554fab2e1ef8c1"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM79/data/villagesplanet.dat"
+hash = "8a3f7d6fae494a98ce255e46baed7387ecc870cc9a1f23fe1ce901c1714255bf"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM79/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM79/multipart.dat"
+hash = "d4ad3d144708149c2fd47080acabfc96823bfd5523eabca7c1d37c3c9a1d9be6"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM79/region/r.-1.-1.mca"
+hash = "3f2dd3f1ae0fbb1a26b9b7f2970ae9f40fa58ef977e11df081051036b2e5200f"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM79/region/r.-1.0.mca"
+hash = "889303a76ad2cd6df082e421c286a780bc1c13f552b66ad443a50318b5422842"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM79/region/r.0.-1.mca"
+hash = "c9c4b6481604705d163cdc32228ace0b438e5390040e0644feebbc0e1c24f5bd"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM79/region/r.0.0.mca"
+hash = "5dcf1dc0ca43c3fe1e1d5b38c1e511723471752527beb27d65afcd6f24c5337d"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM79/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM8/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM8/data/Village.dat"
+hash = "7a5dc484d3c4b026afec66104d313e28ce35566b443661e2a2644860ef42fbbd"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM8/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM8/data/reccomplex-structuredata.dat"
+hash = "46a74b7b7c5f5cacd9ad529ffa44af472ac0da4abe1b5679780860c6ac83d8ba"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM8/data/villagesplanet.dat"
+hash = "7fabfd66b9360c351a9da39b842972c45d7587b7a963682f01e557d52f9ee426"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM8/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM8/multipart.dat"
+hash = "950b3fed19b8569d40c3660fa6e4e127eb40c5f5c4fcfba6aa8f57fcc96a32f1"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM8/region/r.-1.-1.mca"
+hash = "5651e9da9b4b90562357d1aa4e0b7c8d46976a71fb72ef3c21718ff283d717ca"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM8/region/r.-1.0.mca"
+hash = "e9f11117b16f85e3f62fdd3d383b67a086247f3214c383422f0859345cf3db5f"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM8/region/r.0.-1.mca"
+hash = "22797244877f86e69883b47747b676b7724cd5ea51e24a8fbaf33899b479deac"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM8/region/r.0.0.mca"
+hash = "522dd636757c4f78ddd1ac735272bee4b4c278409b58547e984649a6dc2f6a14"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM8/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM9/RuinsPositionsFile.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM9/data/SlimeIslands.dat"
+hash = "1427f0f646ccb5be5c1987ce3e17efa23b58051bd2430f098ab4cbd45ca0d105"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM9/data/Village.dat"
+hash = "bac496ede00095b9126d4e1412c11587dbe6eacf1d42550814dbc1da68639d9c"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM9/data/capabilities.dat"
+hash = "36ed18773502b0a2514ab992ede67f261b4dff605e0593129e0462e559d3acdd"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM9/data/reccomplex-structuredata.dat"
+hash = "86dfda1f2e4574a4b7d31add2b75b76f70962dc8c1fbd2fb9e6d79f90db4c5d5"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM9/data/villagesplanet.dat"
+hash = "3fb7dc0d70a38d13eaab45acbbcedf7ac8ed472e96d9d5b6800e10fd4ed0ebb2"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM9/forcedchunks.dat"
+hash = "8a1ff1d28cc89befe2b93aec31a800604d46b8e653e6a106d409a240cda20738"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM9/multipart.dat"
+hash = "4a344baf30b7f8b5ad47c1487465550eebd248fac552d34377419fe3928adc4d"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM9/region/r.-1.-1.mca"
+hash = "1a8e76159ec180875891255dfa49dd0c7934d899a64e4931241cedb8c3b60c77"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM9/region/r.-1.0.mca"
+hash = "2124711dc12af148cafb31bd0505f063fed8775e4de91d8eaeb227d30185792c"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM9/region/r.0.-1.mca"
+hash = "9d37c8cd586547e6b5cd7a0445f4e25726c9f6ee714c1d1c45dd55ba307a76bc"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM9/region/r.0.0.mca"
+hash = "7159087db3f9648db82e1f7049ca2ffffe087c31745165f3c34890a2a5ded4da"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/DIM9/ruins.txt"
+hash = "b95ff0a6597bcb0c5c6880142ba3b9bd3fc95d895683321d283186ad4fa3eeda"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/planetDefs.xml"
+hash = "be58abd613b726764bb0c27fe7d84eba2753e8140d7d6087299bc4bfa55a54c1"
+
+[[files]]
+file = "saves/Ruins of the Ancients/advRocketry/temp.dat"
+hash = "a29c0c3683551ad4df67752173ac0d7ca4ea5cb3fcffcb4b65d40824561fca46"
+
+[[files]]
 file = "scripts/recipes.zs"
 hash = "009186055be97de1c8974094346340e6db3ca92cc3b4e5fbba85b13429060b21"
+
+[[files]]
+file = "server.properties"
+hash = "0224491f38fc1bc67c9fe8bd1d751d579480066955c55bc4e1e83f2d1b8d3141"
