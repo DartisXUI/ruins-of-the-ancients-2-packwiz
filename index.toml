@@ -229,6 +229,10 @@ file = "config/ruins_config/templateparser/TP_WarTower1Top.tml"
 hash = "c1f60e018463bca289c9ee6a719ed7c12bc322710bc52c02d79ff5ccc941115f"
 
 [[files]]
+file = "config/ruins_config/templateparser/dartiscraft-stargate-typesakyo-final.tml"
+hash = "ce65d8b2d2811dba7ceda09c1a40c82b6712a686112b7d0b3b0713b496432da1"
+
+[[files]]
 file = "config/schematica.cfg"
 hash = "328cad56289b234369af50f22efe4a529f018ad40a64141adb5aeecd42a3124d"
 
