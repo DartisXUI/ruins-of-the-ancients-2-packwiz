@@ -825,7 +825,7 @@ metafile = true
 
 [[files]]
 file = "mods/railcraft.pw.toml"
-hash = "9728f9529ad5901191a342dd9f11b2284a23b02323908209f48a2123e6e08d68"
+hash = "ae5133eba4099fc6c412d0b33bd68eb2199997b4434f1c0c152956575d09fa3a"
 metafile = true
 
 [[files]]
