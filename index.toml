@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg"
-hash = "36e0a98c224cc1261ac0289920a8ecd6f54ff3ea99e8bcf699e4bde31d3846c8"
-
-[[files]]
 file = "config/GeneticsReborn/GeneticsReborn.cfg"
 hash = "117c17d58eab171ea4162719489232b445b4a89e5eb428a38677a3fee4b4f570"
 
@@ -568,11 +564,6 @@ hash = "e105e97942ca227dd0925c73d3a26d30e74820d01e9ea5c458c91409436d515f"
 metafile = true
 
 [[files]]
-file = "mods/handles.pw.toml"
-hash = "3ba6421817270dc4b2369fc1a8354d566f3a37ed6229d50010b836172d0621c7"
-metafile = true
-
-[[files]]
 file = "mods/hunting-dimension.pw.toml"
 hash = "daccec4c429a0d28654fd62731620f0252d551e4175f824d6a100c1e1c61f534"
 metafile = true
@@ -740,11 +731,6 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "5ce43c4f9f7b58f48e7d6c469d6ade03870abd6776abac2e98c8b9e2fbc45ef2"
-metafile = true
-
-[[files]]
-file = "mods/new-tardis-mod.pw.toml"
-hash = "e08823d1cf016afd5c34887773842cd6c775609fe099b1273c165eda7e363a8c"
 metafile = true
 
 [[files]]
@@ -1005,6 +991,11 @@ metafile = true
 [[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "a3895abc87b7e4c9650ce4e7938953f22831d1f1e4e0fefc7a8c9dc65c0eb899"
+metafile = true
+
+[[files]]
+file = "mods/tp.pw.toml"
+hash = "6f8795e4dc59546d61f5b9b5ae9d65fe741715581220c3110938b827f818cbfb"
 metafile = true
 
 [[files]]
