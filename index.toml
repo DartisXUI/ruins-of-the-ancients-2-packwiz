@@ -9,10 +9,6 @@ file = "config/IC2.ini"
 hash = "8e17bfb255616c4c65288c127ceaab63a0ebf33cd76e4898f5be4faf6fb9b018"
 
 [[files]]
-file = "config/SGCraft/pdd.yml"
-hash = "52a824e0bc8d5d4141e88043b6e10abffb9c211f5c444e5069c80c8f246fa86a"
-
-[[files]]
 file = "config/TinkerToolLeveling.cfg"
 hash = "c8ce4b860358129fb90fa179bfd48c861c8afdc616b363a7d5fd2b88598a2704"
 
