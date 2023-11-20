@@ -644,7 +644,7 @@ metafile = true
 
 [[files]]
 file = "mods/littletiles.pw.toml"
-hash = "35c9b8e6cd8cf543185960555bb77ab374c7b2f7730f305f526b2a7c7ddcad73"
+hash = "bc1d7239f0e5525b0c30de109a0dfc1165b7ae405fc813169d16f9ee115ee4c6"
 metafile = true
 
 [[files]]
@@ -709,7 +709,7 @@ metafile = true
 
 [[files]]
 file = "mods/moving-elevators.pw.toml"
-hash = "852fad9a3a21f4bd4fad7ff186e9ce87ca150e74d0d8b7c00f025c68ba92ff6c"
+hash = "b32cbc91ff286dda1e9b1803ba003c30d8d495f088411b8b69faa5de89ae2ee9"
 metafile = true
 
 [[files]]
