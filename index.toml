@@ -619,7 +619,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "d1583e5a76a3d77f42e81c73a7ed73cddcd5aa2551b689f5db4803587a77fe9a"
+hash = "7d15bd3065dfd074bdd3beffe17fe3c64e1a48c65402b243c2846b895766273c"
 metafile = true
 
 [[files]]
@@ -649,7 +649,7 @@ metafile = true
 
 [[files]]
 file = "mods/littletiles.pw.toml"
-hash = "6ae186a7bed19f0983c622f4cafc30f5308959d80537215bc5eb45f8a89f7a42"
+hash = "1d826f1e1dc6fa294255a5923bc8c094dfc6acd43c0f56e7700e37ae0006904e"
 metafile = true
 
 [[files]]
@@ -934,7 +934,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "35fad303cd04b5839559b3527b7f7da49adcdb7622f2b59868a6ded963cf7d44"
+hash = "e0baa0f2e724eb09fb9bb18e825a842e1883662d8bcc4506e7dfd262250a7bf7"
 metafile = true
 
 [[files]]
