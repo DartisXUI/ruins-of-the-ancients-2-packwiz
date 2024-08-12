@@ -14,11 +14,11 @@ hash = "8e17bfb255616c4c65288c127ceaab63a0ebf33cd76e4898f5be4faf6fb9b018"
 
 [[files]]
 file = "config/TinkerToolLeveling.cfg"
-hash = "c8ce4b860358129fb90fa179bfd48c861c8afdc616b363a7d5fd2b88598a2704"
+hash = "3cbd82e1036a6e444b028cf42d83448107d6ef8aa01a37098a8efa62821b4c4e"
 
 [[files]]
 file = "config/Waystones.cfg"
-hash = "ad5c04f5276ca3e6e589d08901f4f7d2c91d4b9cf5299b2fc93290eb978fe6e1"
+hash = "2caae76b08f4e21cfb63334348b708e0a7b11515a764033c6b1610cbc06a4362"
 
 [[files]]
 file = "config/cofh/world/01_thermalfoundation_ores.json"
@@ -58,7 +58,7 @@ hash = "7ca35433ca67d1cc659ff99615629beb7eecea151db2fd4ff538322e4b3f1a20"
 
 [[files]]
 file = "config/natura.cfg"
-hash = "0284a131fd9b28555ae0e2c90ba91c336a501199a864705f641f9c64276e9d13"
+hash = "208dd0e72fc9edbacb18a82d5baba1e21c474d7b8f8a1de6090bd0b3cf2d5776"
 
 [[files]]
 file = "config/openblocks.cfg"
@@ -66,11 +66,11 @@ hash = "ec570ef98ece0584a695199483462612d3b6723cfe01c29074134994fa5520b4"
 
 [[files]]
 file = "config/orecore.cfg"
-hash = "f5f7be24306d4aa813826ba52161a009389dfdcc7d8366f84828ab5b5c54c5d9"
+hash = "567c291753e88b78caa4bf50c589c026ffadf35efa61d8eb641dd49412c78185"
 
 [[files]]
 file = "config/quark.cfg"
-hash = "61d6bf1f9a97cc246f2ffacee6c7474a42007d310acb3b4b33b80f01ef9f15f0"
+hash = "55a4bce5fa3eee50955b46294a168c59ec9131fe0ebe242c3c03105a33c9f0ee"
 
 [[files]]
 file = "config/reccomplex.cfg"
