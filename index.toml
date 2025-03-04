@@ -337,9 +337,8 @@ hash = "45b89fead492935701ce8092eb3920bce39d824629bd87458eae218aba41d258"
 metafile = true
 
 [[files]]
-file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
-hash = "6358f2a21ef9d5600e9401569525f243ba076deeb6acded99ac12dc490646f23"
-metafile = true
+file = "mods/badwithernocookiereloaded-1.12.2-3.4.18.jar"
+hash = "f7df4a095a08d74f553b6223d0059490cd2b9197b15e26721fbfbaf708e8290a"
 
 [[files]]
 file = "mods/base.pw.toml"
@@ -698,7 +697,7 @@ metafile = true
 
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
-hash = "9afedc3dbc837d067d7d87756c0a7f7ec21d582732b346a3167e43222da4c4ab"
+hash = "ae9b5814a439a9c6ce570119e57e7a12e354951f701d98dfa3cb18045cdefcd4"
 metafile = true
 
 [[files]]
@@ -838,7 +837,7 @@ metafile = true
 
 [[files]]
 file = "mods/railcraft.pw.toml"
-hash = "7cc1a80eb9f2e620b4937d4bdb3acbabcd5b433de5024016e81e7b641f4b2f13"
+hash = "9728f9529ad5901191a342dd9f11b2284a23b02323908209f48a2123e6e08d68"
 metafile = true
 
 [[files]]
