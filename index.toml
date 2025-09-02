@@ -456,7 +456,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "c17788a4885a889d1657405611d4d5d5925389875cd3bf55c212fe35d0753dd6"
+hash = "3ef0d324c6ab0c5e6b47ba711ce019662a3d0c41c8a2caa36878336e9947eed7"
 metafile = true
 
 [[files]]
@@ -941,7 +941,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "dd3da3ca6c83e6994a0e7e3df3403f8b52c0a802b96ba4091ec2d7ea0a83b114"
+hash = "4ac787e6cace749877d8fee3d9ad03bbfac49b5a28c1e8a3bf1a703bc92795d8"
 metafile = true
 
 [[files]]
