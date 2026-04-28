@@ -141,8 +141,8 @@ file = "config/ruins_config/generic/OreSpire.tml"
 hash = "8a52fb3a1be478320d57eb1041106fe0e5d1d1e57c050dba6ce163a55e417e6d"
 
 [[files]]
-file = "config/ruins_config/generic/dartiscraft-ancient-outpost-final3.tml"
-hash = "56e623637ba2af8806437fd38a2e9d8abbf833aef27a38bcae5a2b1f7f5d88a0"
+file = "config/ruins_config/generic/dartiscraft-ancient-outpost-final4.tml"
+hash = "bb3740c913909a8fcc6c10f402a5a597d992ed029b959233c86e0bb08ff067d8"
 
 [[files]]
 file = "config/ruins_config/generic/dartiscraft-ancient-repository-mk3f.tml"
@@ -157,8 +157,8 @@ file = "config/ruins_config/generic/dartiscraft-ancient-repository-mk3r.tml"
 hash = "605a71140c8d3489d2cd2ff78c6bcc3f73d6278bf62a2f3ca06701c39af17edc"
 
 [[files]]
-file = "config/ruins_config/generic/dartiscraft-seedship-final2.tml"
-hash = "16deee1df475a95af36442cf86e9525eaba69505d0e8d57af55766d5219435b2"
+file = "config/ruins_config/generic/dartiscraft-seedship-final3.tml"
+hash = "4d0433ad440b4f0436fd055b560c132be4a97b30efc58f72c71e1e8562c19c7d"
 
 [[files]]
 file = "config/ruins_config/generic/dartiscraft-stargate-typesakyo-final.tml"
@@ -231,6 +231,10 @@ hash = "0344152eaf7e6b26853eddf2fa681b47abc8eaa74d04e6fd782e1e7c1354fb5f"
 [[files]]
 file = "config/ruins_config/templateparser/TP_WarTower1Top.tml"
 hash = "c1f60e018463bca289c9ee6a719ed7c12bc322710bc52c02d79ff5ccc941115f"
+
+[[files]]
+file = "config/ruins_config/templateparser/dartiscraft-seedship-final3.tml"
+hash = "4d0433ad440b4f0436fd055b560c132be4a97b30efc58f72c71e1e8562c19c7d"
 
 [[files]]
 file = "config/ruins_config/templateparser/dartiscraft-stargate-typesakyo-final.tml"
